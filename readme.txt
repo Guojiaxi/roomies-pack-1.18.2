@@ -8,11 +8,11 @@ Controlling
 The One Probe
 JourneyMap
 Clumps
+Balm
 
 Beyond Earth + Giselle Addon
 Immersive Engineering
-Immersive Posts
-Farmer's Delight
+Farmer's Delight (not yet)
 Diet
 Waystones
 TerraBlender
