@@ -6,9 +6,13 @@ AppleSkin
 Mouse Tweaks
 Controlling
 The One Probe
-JourneyMap
+XaerosWorldMap
 Clumps
 Balm
+AI Improvements
+Neat
+AttributeFix
+CarryOn
 
 Beyond Earth + Giselle Addon
 Immersive Engineering
@@ -19,3 +23,10 @@ TerraBlender
 Biomes o plenty
 Amplified Nether
 Iron Chests
+Nature's Compass
+Corpse
+Serene Seasons
+Tough As Nails
+Aquaculture 2
+Comforts
+Macaw's Bridges
